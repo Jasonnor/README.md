@@ -6,7 +6,7 @@ You can also add states next to Project Name, e.g,
 + [Travis CI](https://travis-ci.org/)
 + [Coveralls](https://coveralls.io/)
 + [stability-badges](https://github.com/badges/stability-badges/)
-+ [Gitter](https://gitter.im/}
++ [Gitter](https://gitter.im/)
 + Others ...
 
 ## Example
