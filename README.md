@@ -4,9 +4,10 @@ Short introduction or overview that explains **what** the project is. This descr
 
 You can also add states next to Project Name, e.g,
 + [Travis CI](https://travis-ci.org/)
++ [AppVeyor](http://www.appveyor.com/)
 + [Coveralls](https://coveralls.io/)
-+ [stability-badges](https://github.com/badges/stability-badges/)
 + [Gitter](https://gitter.im/)
++ [Shields.io](http://shields.io/)
 + Others ...
 
 ## Example
@@ -33,12 +34,11 @@ Provide code examples and explanations of how to get the project, e.g.,
     cd README.md
     npm install README.md
     npm start
-    
+
 ## Usage
 
 Show how to use the project or library.
     
-
 ## Reference
 
 + [jxson](https://gist.github.com/jxson) - [README.md](https://gist.github.com/jxson/1784669)
@@ -53,4 +53,4 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
