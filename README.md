@@ -8,7 +8,7 @@ You can also add states next to Project Name, e.g,
 + [Coveralls](https://coveralls.io/)
 + [Gitter](https://gitter.im/)
 + [Shields.io](http://shields.io/)
-+ Others ...
++ Others
 
 ## Example
 
@@ -23,10 +23,9 @@ A short description of the motivation behind the creation and maintenance of the
 This section is optional if there isn't any special dependencies. Else a bulletlist will suffice, e.g.,
 + [Node.js](https://nodejs.org/)
 + [React](https://facebook.github.io/react/)
-+ Others ...
++ Others
 
-## Installation
-## Getting Started
+## Installation or Getting Started
 
 Provide code examples and explanations of how to get the project, e.g.,
 
