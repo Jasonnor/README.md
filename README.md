@@ -2,7 +2,7 @@
 
 Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
-You can also add states next to Project Name, e.g,
+You can also add some badges/states next to Project Name, e.g,
 + [Travis CI](https://travis-ci.org/)
 + [AppVeyor](http://www.appveyor.com/)
 + [Coveralls](https://coveralls.io/)
@@ -10,7 +10,7 @@ You can also add states next to Project Name, e.g,
 + [Shields.io](http://shields.io/)
 + Others
 
-## Example
+## Features or Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
@@ -44,7 +44,6 @@ Show how to use the project or library.
 + [gistfrojd](https://gist.github.com/gistfrojd) - [README.md](https://gist.github.com/gistfrojd/5fcd3b70949ac6376f66)
 
 Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
 
 ## Contributors
 
