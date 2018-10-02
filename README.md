@@ -1,6 +1,6 @@
 # Project Name
 
-Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Short introduction or overview that explains **what** the project is all about . This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 You can also add some badges/states next to Project Name, e.g,
 + [Travis CI](https://travis-ci.org/)
@@ -12,11 +12,11 @@ You can also add some badges/states next to Project Name, e.g,
 
 ## Features or Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+Show what the library does as concisely as possible, developers should be able to figure out **How** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+A short description of the motivation behind the creation and maintenance of the project. This should explain **Why** the project exists.
 
 ## Requirements
 
@@ -51,4 +51,4 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
+A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), manny more.)
